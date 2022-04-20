@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React Tailwind starter template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and was created to be similar to Create-React-App, but with TawilwindCSS.
 
