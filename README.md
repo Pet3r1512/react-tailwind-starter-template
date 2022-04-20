@@ -1,6 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and was created to be similar to Create-React-App, but with TawilwindCSS.
+
+## How to use this template?
+
+You can adopt this template by these 3 ways:
+
+- Clone this repo, delete the .git folder and re-init the Git tree.
+- Click `Use this template` button on this repo, or just click on [this link](https://github.com/Pet3r1512/react-tailwind-starter-template/generate)
+- Use `degit` : `npx digit Pet3r1512/react-tailwind-starter-template your-project-name`
+
+## Notes
+
+This template assumes you're using `npm` as your installer and script runner.
 
 ## Available Scripts
 
@@ -45,26 +57,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## What this template includes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [React](https://reactjs.org/) - My favorite Front-end library.
+- [Tailwind](https://tailwindcss.com/) - This CSS framework helps me a lot when styling my projects.
+- [Heroicons](https://heroicons.com/) - You can use these icons for your projects.
