@@ -8,7 +8,7 @@ You can adopt this template by these 3 ways:
 
 - Clone this repo, delete the .git folder and re-init the Git tree.
 - Click `Use this template` button on this repo, or just click on [this link](https://github.com/Pet3r1512/react-tailwind-starter-template/generate)
-- Use `degit` : `npx digit Pet3r1512/react-tailwind-starter-template your-project-name`
+- Use `degit` : `npx degit Pet3r1512/react-tailwind-starter-template your-project-name`
 
 ## Notes
 
