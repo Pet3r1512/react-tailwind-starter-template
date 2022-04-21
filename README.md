@@ -6,9 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can adopt this template by these 3 ways:
 
-- Clone this repo, delete the .git folder and re-init the Git tree.
+- Clone this repo.
 - Click `Use this template` button on this repo, or just click on [this link](https://github.com/Pet3r1512/react-tailwind-starter-template/generate)
 - Use `degit` : `npx degit Pet3r1512/react-tailwind-starter-template your-project-name`
+
+After you have cloned this repo, delete the .git and run `npm install`.
 
 ## Notes
 
