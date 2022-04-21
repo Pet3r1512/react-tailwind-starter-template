@@ -61,6 +61,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## What this template includes
 
-- [React](https://reactjs.org/) - My favorite Front-end library.
-- [Tailwind](https://tailwindcss.com/) - This CSS framework helps me a lot when styling my projects.
+- [ReactJs](https://reactjs.org/) - My favorite Front-end library.
+- [TailwindCSS](https://tailwindcss.com/) - This CSS framework helps me a lot when styling my projects.
 - [Heroicons](https://heroicons.com/) - You can use these icons for your projects.
